@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>My blog</title>
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+
+<div id="header">
+<div class="container">
+<a id="header-title" href="index.html" >My blog</a>
+<ul id="header-nav">
+<li><a href="about.html" >About</a></li>
+<li><a href="mailto:ej_t@sbcglobal.net" >Contact</a></li>
+</ul>
+</div>
+</div>
+
+<div id="content">
+<div class="container">
+<div class="about">
+<div class="about-author">
+<img src="Octo.png" width="125" height="126">
+</div>
+<h1 class="about-title">About me</h1>
+<div class="about-content">
+<p>I'm just a boy, not a hero, from the Bayou City</p>
+<p>If you like what you see and would like to find out more then check out my Twitter/Facebook! If what you see makes an impression then spread the myth that is me to the edge of the universe and beyond!! Any and all questions you have I will answer via email.</p>
+</div>
+</div>
+</div>
+</div>
+
+<div id="footer">
+<div class="container">
+<div class="column">
+<h4>My Links</h4>
+<p>
+<a href="https://twitter.com/emit_the_music">Twitter</a>
+<br>
+<a href="https://www.facebook.com/lookalyve">Facebook</a>
+</p>
+</div>
+<div class="column">
+<h4>My Story</h4>
+<p>Just call me Spiderman because I be slingin' webs!</p>
+</div>
+</div>
+</div>
+
+</body>
+</html>
